@@ -9,3 +9,16 @@ the available information. Looking at the data of the last year, we observed tha
 the customers purchased the packages.
 ● No variables related to Wellness or Well being needs and requirement from customers is 
 available on the data set
+
+Use of Logistic Regression including the following models for comparison: 
+    "Decision Tree",
+    "Bagging Classifier",
+    "Weighted Bagging Classifier",
+    "Random Forest Classifier",
+    "Weighted Random Forest Classifier",
+    "AdaBoost Classifier",
+    "Hyperparameter AdaBoost Classifier",
+    "Gradient Boosting Classifier",
+    "Hyperparameter Gradient Boosting Classifier",
+    "XGBoost Classifier",
+    "Hyperparameter XGBoost Classifier"
